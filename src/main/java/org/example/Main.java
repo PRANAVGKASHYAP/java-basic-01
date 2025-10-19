@@ -10,6 +10,7 @@ public class Main {
     public static void main(String[] args) {
         // 1. Create a new library
         Library myLibrary = new Library();
+        System.out.println("Adding extra line to check the workflow ...");
         System.out.println("Command-Line Jukebox is running... Testing the workflows after changing the branch name ....");
 
         // --- TIER 1: Populating and Viewing Library ---
