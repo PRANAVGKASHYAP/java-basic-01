@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         // 1. Create a new library
         Library myLibrary = new Library();
-        System.out.println("Command-Line Jukebox is running...");
+        System.out.println("Command-Line Jukebox is running... Testing the workflows ....");
 
         // --- TIER 1: Populating and Viewing Library ---
         System.out.println("\n--- [Test 1] Adding Songs to Library ---");
